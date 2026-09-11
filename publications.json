@@ -1,0 +1,85 @@
+[ 
+
+  {
+    "year": 2026,
+    "title": "Failure Event Mining With Fine‐Tuned Large Language Model: Case Study of Analyzing United States Nuclear Power Plant Failure Event Reports",
+    "authors": "S Zhang, SR Sohag, M Xian, S Sun, Z Ma",
+    "venue": "Risk Analysis 46 (3), e70191",
+    "note": "LLM architecture, prompt-based training, and performance evaluation for causal reasoning in technical incident narratives.",
+    "pdf": "#",
+    "url":"https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.70191"
+  },
+  {
+    "year": 2025,
+    "title": "AI-Driven Detection and Mitigation of Backdoor Data Infiltration Among IoT Networks",
+    "authors": "SMM Pasha, C Ye, SR Sohag, MM Ali, MT Islam",
+    "venue": "2025 International Joint Conference on Neural Networks (IJCNN 2025), 1, 353",
+    "pdf": "#",
+    "url":"https://ieeexplore.ieee.org/abstract/document/11229034"
+  },
+    {
+    "year": 2025,
+    "title": "Generalized and Robust LSTM Model for Fault Detection and Classification in Power Transmission Line",
+    "authors": "SMM Pasha, C Ye, SR Sohag, MM Ali, MDT Islam",
+    "venue": "2025 International Joint Conference on Neural Networks (IJCNN), 1-7",
+    "pdf": "#",
+    "url":"https://ieeexplore.ieee.org/abstract/document/11019495"
+  },
+  {
+    "year": 2025,
+    "title": "Comprehensive Survey on Security Features and Vulnerabilities in Data Science Tools",
+    "authors": "FI Meem, IH Mahdy, SJ Tisha, SR Sohag",
+    "venue": "International Journal of Computer Science & Security (IJCSS), 19(1), 17",
+    "pdf": "https://www.researchgate.net/profile/Fatema-Islam-Meem/publication/390261859_A_Comprehensive_Survey_on_Security_Features_and_Vulnerabilities_in_Data_Science_Tools/links/67e64e23920b736ca9b342bf/A-Comprehensive-Survey-on-Security-Features-and-Vulnerabilities-in-Data-Science-Tools.pdf",
+    "url":"https://www.cscjournals.org/manuscript/Journals/IJCSS/Volume19/Issue1/IJCSS-1719.pdf"
+  },
+  {
+    "year": 2024,
+    "title": "Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework",
+    "authors": "SR Sohag, S Zhang, M Xian, S Sun, F Xu, Z Ma",
+    "venue": "Transactions of the American Nuclear Society, 130(1), 840–843",
+    "pdf": "https://inldigitallibrary.inl.gov/content/uploads/50/2026/04/Sort_92418.pdf",
+    "url": "https://arxiv.org/abs/2404.05656"
+  },
+  {
+    "year": 2024,
+    "title": "Exploring Causal Relationships in Biomedical Literature: Methods and Challenges",
+    "authors": "SR Sohag, SMM Pasha",
+    "venue": "International Journal of Innovative Science and Research Technology, 9(12), 2268–2279",
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT24DEC2015.pdf",
+    "url": "https://www.ijisrt.com/papers/exploring-causal-relationships-biomedical-literature.pdf"
+  },
+  {
+    "year": 2024,
+    "title": "Enhancing Audio Classification with a CNN-Attention Model: Robust Performance and Resilience Against Backdoor Attacks",
+    "authors": "SMM Pasha, SR Sohag, MM Ali",
+    "venue": "International Journal of Computer Applications, 186(49), 26–33",
+    "pdf": "https://www.ijcaonline.org/archives/volume186/number49/pasha-2024-ijca-1000.pdf",
+    "url": "https://ijca.phdfocus.com/archives/volume186/issue49/enhancing-audio-classification-with-a-cnn-attention-model-robust-performance-and-resilience-against-backdoor-attacks/"
+  },
+  {
+    "year": 2024,
+    "title": "Causal Discovery for Free Text Using Large Language Models",
+    "authors": "Shahidur Rahoman Sohag",
+    "venue": "University of Idaho ProQuest Dissertations & Theses, 2024. 31636138. ISBN 9798302161321",
+    "status": "Thesis",
+    "url": "https://www.proquest.com/openview/ab970755f971e7ca895b18dc92b46524/1?pq-origsite=gscholar&cbl=18750&diss=y"
+  },
+  {
+    "year": 2023,
+    "title": "Advanced Approaches to Achieve Adaptive Ethical and AI-Driven Human-Centric Software Engineering",
+    "authors": "SR Sohag, SMM Pasha, MM Ali",
+    "venue": "International Journal of Scientific Research in Modern Science and Technology, 2(11), 19–31",
+    "pdf": "https://ijsrmt.com/index.php/ijsrmt/article/view/321/84",
+    "url":"https://ijsrmt.com/index.php/ijsrmt/article/view/321"
+  },
+  {
+    "year": 2022,
+    "title": "A Novel Two-Level Network Slicing Approach for Efficient UAV Communication in Advanced 6G Environments",
+    "authors": "SMM Pasha, SR Sohag",
+    "venue": "International Journal of Scientific Research in Modern Science and Technology, 1(11), 9–17",
+    "pdf": "https://ijsrmt.com/index.php/ijsrmt/article/view/320/88",
+    "url":"https://ijsrmt.com/index.php/ijsrmt/article/view/320"
+  }
+  
+]
